@@ -20,8 +20,8 @@ Jenkins image launches latest Jenkins stable container.
 
 ## To pull image:
 
-### Command: docker pull kaushal95300/jenkins:latest
-
+### Command: <i> "docker pull kaushal95300/jenkins:latest"
+</i>
 
 # Examples
 
