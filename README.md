@@ -4,7 +4,7 @@ Maintained by: Kaushal Soni
 # Supported tags
 >> : latest
 
-# jenkins
+# Jenkins
 Jenkins image launches latest Jenkins stable container. 
 
 # DOCKERFILE
@@ -13,9 +13,14 @@ Jenkins image launches latest Jenkins stable container.
 
 <b> Dockerfile Repository Available at: https://github.com/kush95300/jenkins-dockerfile </b>
 
+
 ## Dockerfile is built using command :
 
 ### docker build -t kaushal95300/jenkins  path_to_dockerfile
+
+## To pull image:
+
+### Command: docker pull kaushal95300/jenkins:latest
 
 
 # Examples
